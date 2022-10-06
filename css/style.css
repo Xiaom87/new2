@@ -91,10 +91,11 @@
 .main-line {
     border-top: 1px solid #47093E;
     border-bottom: 1px solid #47093E;
-    font-size: 25px;
+    font-size: 48px;
     margin-bottom: 5px;
     align-items: center;
     text-align: center;
+    font-weight: 300;
 }
 .complex li {
 list-style-type: none;
