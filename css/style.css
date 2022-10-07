@@ -152,3 +152,38 @@ height: 10px;
     height: 30rem;
     margin-bottom: 15rem;
 }
+.wrapper-slider {
+    margin-bottom: 15rem;
+}
+.owl-carousel .item img{
+    height: 30rem;
+    width: 50%;
+}
+.info {
+    background-image: url(../img/Vector\ 8.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 125vh;
+    width: 100%;
+}
+.info-text {
+    margin-top: 15rem;
+}
+.info-group {
+    margin-top: 15rem;
+}
+.wrapper-content {
+    width: 100%;
+    margin-top: 15rem;
+}
+.wrapper-content-img img {
+    width: 635px;
+    height: 170px;
+    margin-top: ;
+}
+.btn-info-buy {
+   border-color: #47093E;
+   border-radius: 20px;
+   width: 10%;
+   margin-right: 10%;
+}
